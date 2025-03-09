@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [],
+		"liveServer.settings.multiRootWorkspaceName": "mahima.html",
+		"liveServer.settings.port": 5501
+	}
+}
